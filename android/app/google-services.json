@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35147957328",
+    "project_id": "gdg-management-2026",
+    "storage_bucket": "gdg-management-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35147957328:android:ba54aaa6bdca55a6f3bd55",
+        "android_client_info": {
+          "package_name": "com.example.gdg_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVZc8Wpf0hxhUN4u-P0QUly8j7iEwUkpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
